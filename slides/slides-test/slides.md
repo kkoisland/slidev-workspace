@@ -1,7 +1,6 @@
 ---
-
 title: Test Slide
-
+author: Keiko Higuchi
 ---
 
 # title
