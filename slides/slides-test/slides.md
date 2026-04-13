@@ -14,11 +14,7 @@ Contents
 
 Image
 
-<script setup>
-const base = import.meta.env.BASE_URL
-</script>
-
-<img :src="base + 'image.svg'" style="max-height: 400px" />
+<img src="/image.svg" style="max-height: 400px" />
 
 ---
 
@@ -34,8 +30,4 @@ const base = import.meta.env.BASE_URL
 
 Claymate
 
-<script setup>
-const base = import.meta.env.BASE_URL
-</script>
-
-<img :src="base + 'excalidraw-claymate.gif'" style="max-height: 400px" />
+<img src="/excalidraw-claymate.gif" style="max-height: 400px" />
